@@ -1,0 +1,2 @@
+# common
+利用mybatis的generatorConfig逆向生成代码
